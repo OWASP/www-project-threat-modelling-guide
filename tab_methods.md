@@ -1,5 +1,5 @@
 ---
-title: methods
+title: Methods
 layout:  null
 tab: true
 order: 1
