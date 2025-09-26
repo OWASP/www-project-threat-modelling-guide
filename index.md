@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Threat Modelling Guide
-tags: example-tag
+tags: threatmodeling
 level: 2
 type: documentation
 pitch: A very brief, one-line description of your project
