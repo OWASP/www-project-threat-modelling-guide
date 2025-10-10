@@ -1,0 +1,19 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Adrian Sroka
+    email: adrian.sroka@owasp.org
+level: 2
+name: OWASP Threat Modelling Guide
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-threat-modelling-guide
+    url: https://github.com/OWASP/www-project-threat-modelling-guide
+    description: OWASP Foundation web repository
+tags:
+  - threatmodeling
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-threat-modelling-guide
